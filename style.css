@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background: linear-gradient(cyan 0%,blue 100%);
+}
+p{
+    font-size: 20px;
+    color: yellow;
+    background: black;
+}
+img{
+    border-radius: 30%;
+}
+h1{
+    color: yellow;
+    background: black;
+}
